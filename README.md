@@ -33,6 +33,7 @@ What-If / Sensitivity Analysis – Impact of changing material cost % on Profit 
 Prescriptive Analysis – Recommended management actions to improve profitability
 
 ![image alt](https://github.com/jai0311/Financial-Data-Analysis/blob/main/PAT%20forecast.png)
+![image alt](https://github.com/jai0311/Financial-Data-Analysis/blob/main/Total%20Income%20and%20Total%20Expense%20Forecast.png)
 
 ## 💡 Tools & Techniques Used
 

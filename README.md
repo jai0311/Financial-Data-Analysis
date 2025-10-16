@@ -31,6 +31,9 @@ Forecasting – Future projection of costs, revenues, and profits
 What-If / Sensitivity Analysis – Impact of changing material cost % on Profit After Tax (PAT)
 
 Prescriptive Analysis – Recommended management actions to improve profitability
+
+![image alt](https://github.com/jai0311/Financial-Data-Analysis/blob/main/PAT%20forecast.png)
+
 ## 💡 Tools & Techniques Used
 
 Microsoft Excel

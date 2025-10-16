@@ -32,8 +32,7 @@ What-If / Sensitivity Analysis – Impact of changing material cost % on Profit 
 
 Prescriptive Analysis – Recommended management actions to improve profitability
 
-![image alt](https://github.com/jai0311/Financial-Data-Analysis/blob/main/PAT%20forecast.png)
-![image alt](https://github.com/jai0311/Financial-Data-Analysis/blob/main/Total%20Income%20and%20Total%20Expense%20Forecast.png)
+![image alt](https://github.com/jai0311/Financial-Data-Analysis/blob/main/Dashboard.png)
 
 ## 💡 Tools & Techniques Used
 
@@ -64,6 +63,9 @@ Stable liquidity maintained with gradual improvement in net margin.
 Material cost forms ~47% of total expenses, making it the prime optimization area.
 
 Prescriptive analysis identifies strategies for cost control and margin improvement.
+
+![image alt](https://github.com/jai0311/Financial-Data-Analysis/blob/main/PAT%20forecast.png)
+![image alt](https://github.com/jai0311/Financial-Data-Analysis/blob/main/Total%20Income%20and%20Total%20Expense%20Forecast.png)
 
 ## 💼 Skills Demonstrated
 
